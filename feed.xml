@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Morgan's Learning Podcast</title>
-    <link>https://morganjlopes.github.io/podcast-feed/</link>
+    <link>https://iamaaronnorth.github.io/podcast-feed/</link>
     <description>Educational content on automation, client services, and technical deep-dives, converted to audio for easy learning.</description>
     <language>en-us</language>
     <category>Technology</category>
@@ -16,15 +16,15 @@
       <itunes:name>Morgan J. Lopes</itunes:name>
       <itunes:email>morgan@example.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://morganjlopes.github.io/podcast-feed/artwork.jpg"/>
+    <itunes:image href="https://iamaaronnorth.github.io/podcast-feed/artwork.jpg"/>
     <pubDate>Thu, 19 Feb 2026 23:34:00 GMT</pubDate>
     <lastBuildDate>Thu, 19 Feb 2026 23:34:00 GMT</lastBuildDate>
     
     <item>
       <title>Episode 001: Client Service Automation Strategy</title>
-      <link>https://morganjlopes.github.io/podcast-feed/episodes/001</link>
+      <link>https://iamaaronnorth.github.io/podcast-feed/episodes/001</link>
       <description>A comprehensive breakdown of the three core service patterns for scaling client automation: Social Media Engagement, Data Mining &amp; Lead Generation, and Email Management &amp; Customer Service. We cover the implementation timeline, structural changes needed, and how template thinking will save weeks of development time for future clients.</description>
-      <enclosure url="https://morganjlopes.github.io/podcast-feed/audio/episode-001-client-service-automation-strategy.mp3" type="audio/mpeg" length="2048000"/>
+      <enclosure url="https://iamaaronnorth.github.io/podcast-feed/audio/episode-001-client-service-automation-strategy.mp3" type="audio/mpeg" length="2048000"/>
       <guid isPermaLink="false">episode-001-client-service-automation-strategy</guid>
       <pubDate>Thu, 19 Feb 2026 23:34:00 GMT</pubDate>
       <itunes:duration>03:45</itunes:duration>
