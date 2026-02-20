@@ -18,7 +18,19 @@
     </itunes:owner>
     <itunes:image href="https://iamaaronnorth.github.io/podcast-feed/artwork.jpg"/>
     <pubDate>Thu, 19 Feb 2026 23:34:00 GMT</pubDate>
-    <lastBuildDate>Thu, 19 Feb 2026 19:08:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 19:13:44 GMT</lastBuildDate>
+    
+    <item>
+      <title>Episode 002: 10 Things That Keep You Alive While Scuba Diving</title>
+      <link>https://iamaaronnorth.github.io/podcast-feed/episodes/002</link>
+      <description>Episode 002 covering 10 things that keep you alive while scuba diving</description>
+      <enclosure url="https://iamaaronnorth.github.io/podcast-feed/audio/episode-002-10-things-that-keep-you-alive-while-scuba-diving.mp3" type="audio/mpeg" length="2048000"/>
+      <guid isPermaLink="false">episode-002-10-things-that-keep-you-alive-while-scuba-diving</guid>
+      <pubDate>Thu, 19 Feb 2026 19:13:44 GMT</pubDate>
+      <itunes:duration>05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Episode 002 covering 10 things that keep you alive while scuba diving...</itunes:summary>
+    </item>
     
     <item>
       <title>Episode 002: Test Episode</title>
